@@ -1,1 +1,1 @@
-# Perceptron-with-Logistic-Regression
+# Perceptron-Trick-with-Logistic-Regression
