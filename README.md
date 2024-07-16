@@ -1,1 +1,1 @@
-# Logistic-Regression
+# Logistic-regression implementation with perceptron tricks
